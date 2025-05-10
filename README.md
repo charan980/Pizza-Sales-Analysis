@@ -39,8 +39,6 @@ KPI cards: Total Revenue, AOV, Total Orders
 
 Stacked bar: Top 5 pizzas vs. revenue
 
-Heat‑map: Orders by weekday × hour
-
 Trend line: Monthly revenue with YOY % change
 
 Slicers: Category, Size, Month, Order Method
