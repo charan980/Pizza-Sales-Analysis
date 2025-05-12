@@ -28,7 +28,7 @@ Built to showcase **SQL data modeling, Power BI visualization, and documentati
 | Layer | Stack |
 |-------|-------|
 | **Storage** | Azure SQL Database  |
-| **ETL / Modeling** | T‑SQL for staging & star schema, Power Query for minor transforms |
+| **ETL / Modeling** | T‑SQL for staging, Power Query for minor transforms |
 | **Visualization** | Power BI Desktop (.pbix) |
 | **Version Control** | Git + GitHub |
 
